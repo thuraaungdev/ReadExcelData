@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-12T03:43:26 GMT+06:30" name="Default suite" finished-at="2025-02-12T03:43:28 GMT+06:30" duration-ms="1693">
+  <suite started-at="2025-02-12T04:22:58 GMT+06:30" name="Default suite" finished-at="2025-02-12T04:23:01 GMT+06:30" duration-ms="2141">
     <groups>
     </groups>
-    <test started-at="2025-02-12T03:43:26 GMT+06:30" name="Default test" finished-at="2025-02-12T03:43:28 GMT+06:30" duration-ms="1693">
-      <class name="com.testcase.ReadExcelTest">
-        <test-method signature="readExcelTest()[pri:0, instance:com.testcase.ReadExcelTest@f6efaab]" started-at="2025-02-12T03:43:26 GMT+06:30" name="readExcelTest" finished-at="2025-02-12T03:43:28 GMT+06:30" duration-ms="1626" status="PASS">
+    <test started-at="2025-02-12T04:22:58 GMT+06:30" name="Default test" finished-at="2025-02-12T04:23:01 GMT+06:30" duration-ms="2141">
+      <class name="com.testcase.WriteExcelTesst">
+        <test-method signature="writeExcelTest()[pri:0, instance:com.testcase.WriteExcelTesst@3349e9bb]" started-at="2025-02-12T04:22:58 GMT+06:30" name="writeExcelTest" finished-at="2025-02-12T04:23:00 GMT+06:30" duration-ms="1891" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- readExcelTest -->
-      </class> <!-- com.testcase.ReadExcelTest -->
+        </test-method> <!-- writeExcelTest -->
+        <test-method signature="writeExcelTest1()[pri:0, instance:com.testcase.WriteExcelTesst@3349e9bb]" started-at="2025-02-12T04:23:00 GMT+06:30" name="writeExcelTest1" finished-at="2025-02-12T04:23:01 GMT+06:30" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeExcelTest1 -->
+      </class> <!-- com.testcase.WriteExcelTesst -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
