@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-12T03:43:26 GMT+06:30" name="Default suite" finished-at="2025-02-12T03:43:28 GMT+06:30" duration-ms="1693">
+    <groups>
+    </groups>
+    <test started-at="2025-02-12T03:43:26 GMT+06:30" name="Default test" finished-at="2025-02-12T03:43:28 GMT+06:30" duration-ms="1693">
+      <class name="com.testcase.ReadExcelTest">
+        <test-method signature="readExcelTest()[pri:0, instance:com.testcase.ReadExcelTest@f6efaab]" started-at="2025-02-12T03:43:26 GMT+06:30" name="readExcelTest" finished-at="2025-02-12T03:43:28 GMT+06:30" duration-ms="1626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readExcelTest -->
+      </class> <!-- com.testcase.ReadExcelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
